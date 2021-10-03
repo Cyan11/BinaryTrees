@@ -1,2 +1,3 @@
 # BinaryTrees
 (Includes Ternary)
++Functions:
